@@ -13,7 +13,7 @@
 » Clicar com o botão direito do mouse em "Git Bash Here" (vai abrir o Git Bash);
 » Digitar no Git Bash: git clone e colar o link que você tinha copiado do GitHub (https.....) (Aguardar enquanto clona);
 » Digitar no Git Bash: cd nome do repositorio criado;
-» Digitar: git status para ver o status;
+» Digitar no Git Bash: git status para ver o status;
 
 
   
