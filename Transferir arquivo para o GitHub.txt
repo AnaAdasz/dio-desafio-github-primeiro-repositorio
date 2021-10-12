@@ -1,10 +1,14 @@
+Como transferir um arquivo para o GitHub
+
 No seu computador, dentro da pasta do GitHub que você criou em "documentos":
-- Clicar com o botão direito do mouse em "Novo" e depois "documento de texto" para criar um arquivo de texto ou nova pasta; 
-- Digitar algo sobre seus estudos e salvar documento criado;
-- Acessar o Git Bash;(clicar com o botão direito do mouse e escolher a opção "Git Bash Here";
-- Digitar   git status  e depois dar enter (o novo arquivo vai aparecer em vermelho);
-- Digitar   git add .    e depois enter (após o add tem um espaço antes de digitar o ponto);
-- Digitar   git push origin main      e depois dar enter (para transferir o arquivo);
-- Ir no GitHub e ao atualizar os documentos estarão lá.
+» Clicar com o botão direito do mouse em "Novo" e depois "documento de texto" (para criar um arquivo de texto ou nova pasta); 
+» Digitar algo sobre seus estudos e salvar documento criado;
+» Acessar o Git Bash (clicar com o botão direito do mouse e escolher a opção "Git Bash Here");
+» Digitar no Git Bash:   git status  e depois dar enter (o novo arquivo vai aparecer em vermelho);
+» Digitar no Git Bash:   git add .    e depois enter (após o add tem um espaço antes de digitar o ponto);
+» Digitar no Git Bash:   git status  e depois dar enter (o novo arquivo vai aparecer em verde);
+» Digitar no Git Bash:   git commit -m main   "Inclusão de novo arquivo com instruçõesgit" (comentário livre) e depois dar enter;
+» Digitar no Git Bash:   git push origin main      e depois dar enter (para transferir o arquivo);
+» Ir no GitHub e ao atualizar, os documentos estarão lá.
 
 

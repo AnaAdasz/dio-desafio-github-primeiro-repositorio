@@ -1,16 +1,19 @@
-- Acessar o site https://github.com/AnaAdasz (acessar com o seu usuário/nickname);
-- Clicar em "New repository" (símbolo + no canto direito ao lado da sua foto);
-- Inserir o nome do repositório no campo "Repository name";
-- Inserir a descrição no campo "Description" (opicional);
-- Clicar na opção: "Public" (para todos verem) e "Initialize this repository with:  ADD A README file";
-- Clicar em "Create repository";
-- Acessar o repositório criado (clicar no nome do repositório criado);
-- Clicar em "Code" (em verde);
-- Clicar em copiar (vai estar em HTTPS);
-- Criar uma nova pasta no seu computador com o nome, por exemplo "Git" ou GitHub" (vá em meus documentos, nova pasta (Ctrl+Shift+N);
-- Clicar com o botão direito do mouse em "Git Bash Here" (vai abrir o Git Bash);
-- Digitar: git clone e colar o link que você tinha copiado do GitHub (https.....) (Aguardar enquanto clona);
-- Digitar: git status para ver o status;
+  Criar novo repositório e clonar 
+
+» Acessar o site https://github.com/AnaAdasz (acessar com o seu usuário/nickname);
+» Clicar em "New repository" (símbolo + no canto direito ao lado da sua foto);
+» Inserir o nome do repositório no campo "Repository name";
+» Inserir a descrição no campo "Description" (opicional);
+» Clicar na opção: "Public" (para todos verem) e "Initialize this repository with:  ADD A README file";
+» Clicar em "Create repository";
+» Acessar o repositório criado (clicar no nome do repositório criado);
+» Clicar em "Code" (em verde);
+» Clicar em copiar (vai estar em HTTPS);
+» Criar uma nova pasta no seu computador com o nome, por exemplo "Git" ou GitHub" (vá em meus documentos, nova pasta (Ctrl+Shift+N);
+» Clicar com o botão direito do mouse em "Git Bash Here" (vai abrir o Git Bash);
+» Digitar no Git Bash: git clone e colar o link que você tinha copiado do GitHub (https.....) (Aguardar enquanto clona);
+» Digitar no Git Bash: cd nome do repositorio criado;
+» Digitar: git status para ver o status;
 
 
   
